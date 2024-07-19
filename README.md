@@ -26,7 +26,7 @@
 - 📑 [论文报告（28）](./papers/README.md)
 - 🥸 [演示文稿（13）](./slides/README.md)
 - 📜 [静态文档（33）](./static-documents/README.md)
-- 🌐 [公众号](./wechat-public-account.md)
+- 🌐 [公众号（2）](./wechat-public-account.md)
 - ⏰ [云原生会议（2）](./conference/README.md)
 
 ## 0x02 如何使用
