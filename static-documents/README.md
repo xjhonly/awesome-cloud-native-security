@@ -6,6 +6,12 @@
 
 ## 2024-07
 
+34. 使用Kubescape和Copa修复镜像漏洞
+- 📅 日期：2024-07-14
+- 💬 标题：Patching Image Vulnerabilities with Kubescape & Copa
+- 🔗 链接：<https://mp.weixin.qq.com/s/6J3b2zpa9jwQx2OGcZGWXQ>
+- 🔗 原始文章：<https://kubescape.io/blog/2024/07/14/kubescape-3-image-patching/>
+
 33. 启动您的Kubernetes安全
 
 - 📅 日期：2024-07-02
